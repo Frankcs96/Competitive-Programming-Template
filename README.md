@@ -8,7 +8,7 @@ My setup:
 
 
 Here we include the whole std library so we don't have to include vectors, sets etc etc... 
-I don't like to using namespace std but for competitive programming is the way to go.
+I don't like to use "using namespace std" but for competitive programming is the way to go.
 
 ```c++
 #include <bits/stdc++.h>
